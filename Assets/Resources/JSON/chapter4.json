@@ -1,0 +1,364 @@
+{
+  "kotoba": [
+    {
+      "kana": "おきます",
+      "kanji": "起きます",
+      "meaning": "အိပ်ယာထသည်",
+      "remark": "-"
+    },
+    {
+      "kana": "ねます",
+      "kanji": "寝ます",
+      "meaning": "အိပ်သည်",
+      "remark": "-"
+    },
+    {
+      "kana": "はたらきます",
+      "kanji": "働きます",
+      "meaning": "အလုပ်လုပ်သည်",
+      "remark": "-"
+    },
+    {
+      "kana": "やすみます",
+      "kanji": "休みます",
+      "meaning": "အနားယူသည်၊ အားလပ်ရက်ယူသည်",
+      "remark": "-"
+    },
+    {
+      "kana": "べんきょうします",
+      "kanji": "勉強します",
+      "meaning": "လေ့လာသည်၊ ကျက်မှတ်သည်၊ စာလုပ်သည်",
+      "remark": "-"
+    },
+    {
+      "kana": "おわります",
+      "kanji": "終わります",
+      "meaning": "ပြီးဆုံးသည်",
+      "remark": "-"
+    },
+    {
+      "kana": "デパート",
+      "kanji": "-",
+      "meaning": "ကုန်တိုက်",
+      "remark": "-"
+    },
+    {
+      "kana": "ぎんこう",
+      "kanji": "銀行",
+      "meaning": "ဘဏ်",
+      "remark": "-"
+    },
+    {
+      "kana": "ゆうびんきょく",
+      "kanji": "郵便局",
+      "meaning": "စာတိုက်",
+      "remark": "-"
+    },
+    {
+      "kana": "としょかん",
+      "kanji": "図書館",
+      "meaning": "စာကြည့်တိုက်",
+      "remark": "-"
+    },
+    {
+      "kana": "びじゅつかん",
+      "kanji": "美術館",
+      "meaning": "အနုပညာပြတိုက်",
+      "remark": "-"
+    },
+    {
+      "kana": "いま",
+      "kanji": "今",
+      "meaning": "ယခု",
+      "remark": "-"
+    },
+    {
+      "kana": "ーじ",
+      "kanji": "ー時",
+      "meaning": "-နာရီ",
+      "remark": "-"
+    },
+    {
+      "kana": "ーふん（ーぷん）",
+      "kanji": "ー分",
+      "meaning": "-မိနစ်",
+      "remark": "-"
+    },
+    {
+      "kana": "はん",
+      "kanji": "半",
+      "meaning": "-နာရီခွဲ၊ တစ်ဝက်",
+      "remark": "-"
+    },
+    {
+      "kana": "なんじ",
+      "kanji": "何時",
+      "meaning": "ဘယ်နှစ်နာရီ",
+      "remark": "-"
+    },
+    {
+      "kana": "なんぷん",
+      "kanji": "何分",
+      "meaning": "ဘယ်နှစ်မိနစ်",
+      "remark": "-"
+    },
+    {
+      "kana": "ごぜん",
+      "kanji": "午前",
+      "meaning": "နံနက်ပိုင်း",
+      "remark": "-"
+    },
+    {
+      "kana": "ごご",
+      "kanji": "午後",
+      "meaning": "မွန်းလွဲပိုင်း",
+      "remark": "-"
+    },
+    {
+      "kana": "あさ",
+      "kanji": "朝",
+      "meaning": "နံနက်",
+      "remark": "-"
+    },
+    {
+      "kana": "ひる",
+      "kanji": "昼",
+      "meaning": "နေ့၊နေ့လယ်",
+      "remark": "-"
+    },
+    {
+      "kana": "ばん（よる）",
+      "kanji": "晩",
+      "meaning": "ည",
+      "remark": "-"
+    },
+    {
+      "kana": "おととい",
+      "kanji": "-",
+      "meaning": "တစ်နေ့က",
+      "remark": "-"
+    },
+    {
+      "kana": "きのう",
+      "kanji": "昨日",
+      "meaning": "မနေ့က",
+      "remark": "-"
+    },
+    {
+      "kana": "きょう",
+      "kanji": "今日",
+      "meaning": "ဒီနေ့",
+      "remark": "-"
+    },
+    {
+      "kana": "あした",
+      "kanji": "明日",
+      "meaning": "မနက်ဖြန်",
+      "remark": "-"
+    },
+    {
+      "kana": "あさって",
+      "kanji": "-",
+      "meaning": "သန်ဘက်ခါ",
+      "remark": "-"
+    },
+    {
+      "kana": "けさ",
+      "kanji": "今朝",
+      "meaning": "ဒီနေ့မနက်၊ ဒီမနက်",
+      "remark": "-"
+    },
+    {
+      "kana": "こんばん",
+      "kanji": "今晩",
+      "meaning": "ဒီနေ့ည၊ ဒီည",
+      "remark": "-"
+    },
+    {
+      "kana": "やすみ",
+      "kanji": "休み",
+      "meaning": "အနားယူချိန်၊ အားလပ်ရက်၊ နားရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "ひるやすみ",
+      "kanji": "昼休み",
+      "meaning": "နေ့ခင်းနားချိန်",
+      "remark": "-"
+    },
+    {
+      "kana": "しけん",
+      "kanji": "試験",
+      "meaning": "စာမေးပွဲ",
+      "remark": "-"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji": "会議",
+      "meaning": "အစည်းအဝေး",
+      "remark": "-"
+    },
+    {
+      "kana": "えいが",
+      "kanji": "映画",
+      "meaning": "ရုပ်ရှင်",
+      "remark": "-"
+    },
+    {
+      "kana": "まいあさ",
+      "kanji": "毎朝",
+      "meaning": "မနက်တိုင်း",
+      "remark": "-"
+    },
+    {
+      "kana": "まいばん",
+      "kanji": "毎晩",
+      "meaning": "ညတိုင်း",
+      "remark": "-"
+    },
+    {
+      "kana": "まいにち",
+      "kanji": "毎日",
+      "meaning": "နေ့တိုင်း",
+      "remark": "-"
+    },
+    {
+      "kana": "げつようび",
+      "kanji": "月曜日",
+      "meaning": "တနင်္လာနေ့",
+      "remark": "-"
+    },
+    {
+      "kana": "かようび",
+      "kanji": "火曜日",
+      "meaning": "အင်္ဂါနေ့",
+      "remark": "-"
+    },
+    {
+      "kana": "すいようび",
+      "kanji": "水曜日",
+      "meaning": "ဗုဒ္ဓဟူးနေ့",
+      "remark": "-"
+    },
+    {
+      "kana": "もくようび",
+      "kanji": "木曜日",
+      "meaning": "ကြာသပတေးနေ့",
+      "remark": "-"
+    },
+    {
+      "kana": "きんようび",
+      "kanji": "金曜日",
+      "meaning": "သောကြာနေ့",
+      "remark": "-"
+    },
+    {
+      "kana": "どようび",
+      "kanji": "土曜日",
+      "meaning": "စနေနေ့",
+      "remark": "-"
+    },
+    {
+      "kana": "にちようび",
+      "kanji": "日曜日",
+      "meaning": "တနင်္ဂနွေနေ့",
+      "remark": "-"
+    },
+    {
+      "kana": "なんようび",
+      "kanji": "何曜日",
+      "meaning": "ဘယ်နေ့",
+      "remark": "-"
+    },
+    {
+      "kana": "～から",
+      "kanji": "-",
+      "meaning": "-မှ/-က",
+      "remark": "-"
+    },
+    {
+      "kana": "～まで",
+      "kanji": "-",
+      "meaning": "-ထိ/-အထိ",
+      "remark": "-"
+    },
+    {
+      "kana": "～と～",
+      "kanji": "-",
+      "meaning": "-နှင့်-",
+      "remark": "-"
+    },
+    {
+      "kana": "たいへんですね",
+      "kanji": "大変ですね",
+      "meaning": "မလွယ်ဘူးနော်",
+      "remark": "練習C"
+    },
+    {
+      "kana": "ばんごう",
+      "kanji": "番号",
+      "meaning": "နံပါတ်",
+      "remark": "会話"
+    },
+    {
+      "kana": "なんばん",
+      "kanji": "何番",
+      "meaning": "နံပါတ်ဘယ်လောက်",
+      "remark": "会話"
+    },
+    {
+      "kana": "そちら",
+      "kanji": "-",
+      "meaning": "အဲဒီဘက်",
+      "remark": "会話"
+    },
+    {
+      "kana": "ニューヨーク",
+      "kanji": "-",
+      "meaning": "နယူးယောက်",
+      "remark": "-"
+    },
+    {
+      "kana": "ペキン",
+      "kanji": "-",
+      "meaning": "ပီကင်း",
+      "remark": "-"
+    },
+    {
+      "kana": "ロサンゼルス",
+      "kanji": "-",
+      "meaning": "လော့(စ်)အိန်ဂျလိစ်",
+      "remark": "-"
+    },
+    {
+      "kana": "ロンドン",
+      "kanji": "-",
+      "meaning": "လန်ဒန်",
+      "remark": "-"
+    },
+    {
+      "kana": "あすか",
+      "kanji": "-",
+      "meaning": "အစုခ (ဆိုင်အမည်)",
+      "remark": "-"
+    },
+    {
+      "kana": "アップルぎんこう",
+      "kanji": "アップル銀行",
+      "meaning": "အက်ပဲ(လ်)ဘဏ် (ဘဏ်အမည်)",
+      "remark": "-"
+    },
+    {
+      "kana": "みどりとしょかん",
+      "kanji": "まどり図書館",
+      "meaning": "မိဒိုရိစာကြည့်တိုက် (စာကြည့်တိုက်အမည်)",
+      "remark": "-"
+    },
+    {
+      "kana": "やまとびじゅつかん",
+      "kanji": "やまと美術館",
+      "meaning": "ယာမတိုအနုပညာပြတိုက် (အနုပညာပြတိုက်အမည်)",
+      "remark": "-"
+    }
+  ]
+}

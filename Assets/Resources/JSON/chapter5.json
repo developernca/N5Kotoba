@@ -1,0 +1,370 @@
+{
+  "kotoba": [
+    {
+      "kana": "いきます",
+      "kanji": "行きます",
+      "meaning": "သွားသည်",
+      "remark": "-"
+    },
+    {
+      "kana": "きます",
+      "kanji": "来ます",
+      "meaning": "လာသည်",
+      "remark": "-"
+    },
+    {
+      "kana": "かえります",
+      "kanji": "帰ります",
+      "meaning": "ပြန်သည်",
+      "remark": "-"
+    },
+    {
+      "kana": "がっこう",
+      "kanji": "学校",
+      "meaning": "ကျောင်း",
+      "remark": "-"
+    },
+    {
+      "kana": "スーパー",
+      "kanji": "-",
+      "meaning": "စူပါမားကတ်",
+      "remark": "-"
+    },
+    {
+      "kana": "えき",
+      "kanji": "駅",
+      "meaning": "ဘူတာ",
+      "remark": "-"
+    },
+    {
+      "kana": "ひこうき",
+      "kanji": "飛行機",
+      "meaning": "လေယာဥ်ပျံ",
+      "remark": "-"
+    },
+    {
+      "kana": "ふね",
+      "kanji": "船",
+      "meaning": "သင်္ဘော",
+      "remark": "-"
+    },
+    {
+      "kana": "でんしゃ",
+      "kanji": "電車",
+      "meaning": "ရထား",
+      "remark": "-"
+    },
+    {
+      "kana": "ちかてつ",
+      "kanji": "地下鉄",
+      "meaning": "မြေအောက်ရထား",
+      "remark": "-"
+    },
+    {
+      "kana": "しんかんせん",
+      "kanji": "新幹線",
+      "meaning": "ကျည်ဆံရထား",
+      "remark": "-"
+    },
+    {
+      "kana": "バス",
+      "kanji": "-",
+      "meaning": "ဘတ်စ်ကား",
+      "remark": "-"
+    },
+    {
+      "kana": "タクシー",
+      "kanji": "-",
+      "meaning": "တက္ကစီ",
+      "remark": "-"
+    },
+    {
+      "kana": "じてんしゃ",
+      "kanji": "自転車",
+      "meaning": "စက်ဘီး",
+      "remark": "-"
+    },
+    {
+      "kana": "あるいて",
+      "kanji": "歩いて",
+      "meaning": "လမ်းလျှောက်၍",
+      "remark": "-"
+    },
+    {
+      "kana": "ひと",
+      "kanji": "人",
+      "meaning": "လူ",
+      "remark": "-"
+    },
+    {
+      "kana": "ともだち",
+      "kanji": "友達",
+      "meaning": "သူငယ်ချင်း",
+      "remark": "-"
+    },
+    {
+      "kana": "かれ",
+      "kanji": "彼",
+      "meaning": "သူ၊ ရည်းစား",
+      "remark": "-"
+    },
+    {
+      "kana": "かのじょ",
+      "kanji": "彼女",
+      "meaning": "သူမ၊ ရည်းစား",
+      "remark": "-"
+    },
+    {
+      "kana": "かぞく",
+      "kanji": "家族",
+      "meaning": "မိသားစု",
+      "remark": "-"
+    },
+    {
+      "kana": "ひとりで",
+      "kanji": "一人で",
+      "meaning": "တစ်ယောက်တည်း",
+      "remark": "-"
+    },
+    {
+      "kana": "せんしゅう",
+      "kanji": "先週",
+      "meaning": "ပြီးခဲ့တဲ့အပတ်",
+      "remark": "-"
+    },
+    {
+      "kana": "こんしゅう",
+      "kanji": "今週",
+      "meaning": "ဒီအပတ်",
+      "remark": "-"
+    },
+    {
+      "kana": "らいしゅう",
+      "kanji": "来週",
+      "meaning": "နောက်အပတ်",
+      "remark": "-"
+    },
+    {
+      "kana": "せんげつ",
+      "kanji": "先月",
+      "meaning": "အရင်လ",
+      "remark": "-"
+    },
+    {
+      "kana": "こんげつ",
+      "kanji": "今月",
+      "meaning": "ဒီလ",
+      "remark": "-"
+    },
+    {
+      "kana": "らいげつ",
+      "kanji": "来月",
+      "meaning": "နောက်လ",
+      "remark": "-"
+    },
+    {
+      "kana": "きょねん",
+      "kanji": "去年",
+      "meaning": "မနှစ်က",
+      "remark": "-"
+    },
+    {
+      "kana": "ことし",
+      "kanji": "今年",
+      "meaning": "ဒီနှစ်",
+      "remark": "-"
+    },
+    {
+      "kana": "らいねん",
+      "kanji": "来年",
+      "meaning": "နောက်နှစ်",
+      "remark": "-"
+    },
+    {
+      "kana": "ーねん",
+      "kanji": "ー年",
+      "meaning": "-နှစ် (သက္ကရာဇ်)",
+      "remark": "-"
+    },
+    {
+      "kana": "なんねん",
+      "kanji": "何年",
+      "meaning": "ဘယ်နှစ်",
+      "remark": "-"
+    },
+    {
+      "kana": "ーがつ",
+      "kanji": "ー月",
+      "meaning": "-လ",
+      "remark": "-"
+    },
+    {
+      "kana": "なんがつ",
+      "kanji": "何月",
+      "meaning": "ဘယ်လ",
+      "remark": "-"
+    },
+    {
+      "kana": "ついたち",
+      "kanji": "一日",
+      "meaning": "၁ ရက်နေ့၊ ၁ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "ふつか",
+      "kanji": "二日",
+      "meaning": "၂ ရက်နေ့၊ ၂ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "みっか",
+      "kanji": "三日",
+      "meaning": "၃ ရက်နေ့၊ ၃ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "よっか",
+      "kanji": "四日",
+      "meaning": "၄ ရက်နေ့၊ ၄ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "いつか",
+      "kanji": "五日",
+      "meaning": "၅ ရက်နေ့၊ ၅ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "むいか",
+      "kanji": "六日",
+      "meaning": "၆ ရက်နေ့၊ ၆ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "なのか",
+      "kanji": "七日",
+      "meaning": "၇ ရက်နေ့၊ ၇ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "ようか",
+      "kanji": "八日",
+      "meaning": "၈ ရက်နေ့၊ ၈ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "ここのか",
+      "kanji": "九日",
+      "meaning": "၉ ရက်နေ့၊ ၉ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "とおか",
+      "kanji": "十日",
+      "meaning": "၁၀ ရက်နေ့၊ ၁၀ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "じゅうよっか",
+      "kanji": "十四日",
+      "meaning": "၁၄ ရက်နေ့၊ ၁၄ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "はつか",
+      "kanji": "二十日",
+      "meaning": "၂၀ ရက်နေ့၊ ၂၀ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "にじゅうよっか",
+      "kanji": "二十四日",
+      "meaning": "၂၄ ရက်နေ့၊ ၂၄ ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "～にち",
+      "kanji": "～日",
+      "meaning": "- ရက်နေ့၊ - ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "なんにち",
+      "kanji": "何日",
+      "meaning": "ဘယ်ရက်နေ့၊ ဘယ်ရက်",
+      "remark": "-"
+    },
+    {
+      "kana": "いつ",
+      "kanji": "-",
+      "meaning": "ဘယ်တော့၊ ဘယ်ချိန်",
+      "remark": "-"
+    },
+    {
+      "kana": "たんじょうび",
+      "kanji": "誕生日",
+      "meaning": "မွေးနေ့",
+      "remark": "-"
+    },
+    {
+      "kana": "そうですね",
+      "kanji": "-",
+      "meaning": "ဟုတ်တယ်နော်",
+      "remark": "練習C"
+    },
+    {
+      "kana": "【どうも】ありがとう　ございました",
+      "kanji": "-",
+      "meaning": "ကျေးဇူးတင်ပါတယ်",
+      "remark": "会話"
+    },
+    {
+      "kana": "どう　いたしまして",
+      "kanji": "-",
+      "meaning": "မဟုတ်တာ၊ ရပါတယ်",
+      "remark": "会話"
+    },
+    {
+      "kana": "ーばんせん",
+      "kanji": "一番線",
+      "meaning": "-စင်္ကြန် (ဘူတာပလက်ဖောင်းအမှတ်)",
+      "remark": "会話"
+    },
+    {
+      "kana": "つぎの",
+      "kanji": "次の",
+      "meaning": "နောက်လာမည့်",
+      "remark": "会話"
+    },
+    {
+      "kana": "ふつう",
+      "kanji": "普通",
+      "meaning": "ရိုးရိုးရထား",
+      "remark": "会話"
+    },
+    {
+      "kana": "きゅうこう",
+      "kanji": "急行",
+      "meaning": "အမြန်ရထား",
+      "remark": "会話"
+    },
+    {
+      "kana": "とっきゅう",
+      "kanji": "特急",
+      "meaning": "အထူးအမြန်ရထား",
+      "remark": "会話"
+    },
+    {
+      "kana": "こうしえん",
+      "kanji": "甲子園",
+      "meaning": "ခိုးရှိအန်း (အိုဆာကာအနီးရှိမြို့အမည်)",
+      "remark": "-"
+    },
+    {
+      "kana": "おおさかじょう",
+      "kanji": "大阪城",
+      "meaning": "အိုဆာကာမြို့ရှိ အိုဆာကာရဲတိုက်",
+      "remark": "-"
+    }
+  ]
+}

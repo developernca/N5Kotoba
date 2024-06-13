@@ -1,0 +1,279 @@
+{
+  "kotoba": [
+    {
+      "kana": "これ",
+      "kanji": "-",
+      "meaning": "ဒီဟာ (ပြောသူအနီးရှိသောအရာ)",
+      "remark": "-"
+    },
+    {
+      "kana": "それ",
+      "kanji": "-",
+      "meaning": "ဟိုဟာ (နား‌ထောင်သူအနီးရှိသောအရာ)",
+      "remark": "-"
+    },
+    {
+      "kana": "あれ",
+      "kanji": "-",
+      "meaning": "ဟိုးကဟာ (နှစ်ဦးလုံးနှင့်အဝေးတွင်ရှိသောအရာ)",
+      "remark": "-"
+    },
+    {
+      "kana": "この～",
+      "kanji": "-",
+      "meaning": "ဒီ~",
+      "remark": "-"
+    },
+    {
+      "kana": "その～",
+      "kanji": "-",
+      "meaning": "အဲ့ဒီ~",
+      "remark": "-"
+    },
+    {
+      "kana": "あの～",
+      "kanji": "-",
+      "meaning": "ဟို~",
+      "remark": "-"
+    },
+    {
+      "kana": "ほん",
+      "kanji": "本",
+      "meaning": "စာအုပ်",
+      "remark": "-"
+    },
+    {
+      "kana": "じしょ",
+      "kanji": "辞書",
+      "meaning": "အဘိဓါန်",
+      "remark": "-"
+    },
+    {
+      "kana": "ざっし",
+      "kanji": "雑誌",
+      "meaning": "မဂ္ဂဇင်း",
+      "remark": "-"
+    },
+    {
+      "kana": "しんぶん",
+      "kanji": "新聞",
+      "meaning": "သတင်းစာ",
+      "remark": "-"
+    },
+    {
+      "kana": "ノート",
+      "kanji": "-",
+      "meaning": "မှတ်စုစာအုပ်",
+      "remark": "-"
+    },
+    {
+      "kana": "てちょう",
+      "kanji": "手帳",
+      "meaning": "အိတ်ဆောင်မှတ်စု",
+      "remark": "-"
+    },
+    {
+      "kana": "めいし",
+      "kanji": "名刺",
+      "meaning": "လိပ်စာကတ်",
+      "remark": "-"
+    },
+    {
+      "kana": "カード",
+      "kanji": "-",
+      "meaning": "ကတ်",
+      "remark": "-"
+    },
+    {
+      "kana": "えんぴつ",
+      "kanji": "鉛筆",
+      "meaning": "ခဲတံ",
+      "remark": "-"
+    },
+    {
+      "kana": "ボールペン",
+      "kanji": "-",
+      "meaning": "ဘောပင်",
+      "remark": "-"
+    },
+    {
+      "kana": "シャープペンシル",
+      "kanji": "-",
+      "meaning": "ခဲဆံဘောပင်",
+      "remark": "-"
+    },
+    {
+      "kana": "かぎ",
+      "kanji": "鍵",
+      "meaning": "သော့",
+      "remark": "-"
+    },
+    {
+      "kana": "とけい",
+      "kanji": "時計",
+      "meaning": "နာရီ",
+      "remark": "-"
+    },
+    {
+      "kana": "かさ",
+      "kanji": "傘",
+      "meaning": "ထီး",
+      "remark": "-"
+    },
+    {
+      "kana": "かばん",
+      "kanji": "鞄",
+      "meaning": "အိတ်၊လွယ်အိတ်",
+      "remark": "-"
+    },
+    {
+      "kana": "CD",
+      "kanji": "-",
+      "meaning": "စီဒီ",
+      "remark": "-"
+    },
+    {
+      "kana": "テレビ",
+      "kanji": "-",
+      "meaning": "TV",
+      "remark": "-"
+    },
+    {
+      "kana": "ラジオ",
+      "kanji": "-",
+      "meaning": "ရေဒီယို",
+      "remark": "-"
+    },
+    {
+      "kana": "カメラ",
+      "kanji": "-",
+      "meaning": "ကင်မရာ",
+      "remark": "-"
+    },
+    {
+      "kana": "コンピューター",
+      "kanji": "-",
+      "meaning": "ကွန်ပျူတာ",
+      "remark": "-"
+    },
+    {
+      "kana": "くるま",
+      "kanji": "車",
+      "meaning": "ကား",
+      "remark": "-"
+    },
+    {
+      "kana": "つくえ",
+      "kanji": "机",
+      "meaning": "စားပွဲ",
+      "remark": "-"
+    },
+    {
+      "kana": "いす",
+      "kanji": "-",
+      "meaning": "ထိုင်ခုံ",
+      "remark": "-"
+    },
+    {
+      "kana": "チョコレート",
+      "kanji": "-",
+      "meaning": "ချောကလက်",
+      "remark": "-"
+    },
+    {
+      "kana": "コーヒー",
+      "kanji": "-",
+      "meaning": "ကော်ဖီ",
+      "remark": "-"
+    },
+    {
+      "kana": "おみやげ",
+      "kanji": "お土産",
+      "meaning": "ခရီးသွားအပြန်/အမှတ်တရလက်ဆောင်",
+      "remark": "-"
+    },
+    {
+      "kana": "えいご",
+      "kanji": "英語",
+      "meaning": "အင်္ဂလိပ်စာ",
+      "remark": "-"
+    },
+    {
+      "kana": "にほんご",
+      "kanji": "日本語",
+      "meaning": "ဂျပန်စာ",
+      "remark": "-"
+    },
+    {
+      "kana": "～ご",
+      "kanji": "～語",
+      "meaning": "-စာ၊-ဘာသာ",
+      "remark": "-"
+    },
+    {
+      "kana": "なん",
+      "kanji": "何",
+      "meaning": "ဘာ၊ဘယ်ဟာ",
+      "remark": "-"
+    },
+    {
+      "kana": "そう",
+      "meaning": "အဲဒီလို",
+      "remark": "-"
+    },
+    {
+      "kana": "あのう",
+      "kanji": "-",
+      "meaning": "အဲ၊ဟို",
+      "remark": "練習C"
+    },
+    {
+      "kana": "えっ",
+      "kanji": "-",
+      "meaning": "ဟင်",
+      "remark": "練習C"
+    },
+    {
+      "kana": "どうぞ",
+      "kanji": "-",
+      "meaning": "ယူပါ၊ လက်ခံပါ",
+      "remark": "練習C"
+    },
+    {
+      "kana": "【どうも】ありがとう【ございます】。",
+      "kanji": "-",
+      "meaning": "ကျေးဇူးတင်ပါတယ်",
+      "remark": "練習C"
+    },
+    {
+      "kana": "そうですか",
+      "kanji": "-",
+      "meaning": "ဟုတ်လား",
+      "remark": "練習C"
+    },
+    {
+      "kana": "ちがいます",
+      "kanji": "違います",
+      "meaning": "မဟုတ်ဘူး",
+      "remark": "練習C"
+    },
+    {
+      "kana": "あ",
+      "kanji": "-",
+      "meaning": "အယ်",
+      "remark": "練習C"
+    },
+    {
+      "kana": "これから　おせわに なります。",
+      "kanji": "これから　お世話になります。",
+      "meaning": "အခုချိန်ကစပြီး အကူအညီယူပါရစေ",
+      "remark": "会話"
+    },
+    {
+      "kana": "こちらこそ【どうぞ】よろしく【おねがいします】。",
+      "kanji": "こちらこそ　どうぞ　宜しく　お願いします",
+      "meaning": "ကျွန်တော်/မ ဘက်ကလည်း ရင်း”နှီး” ရှိချင်ပါတယ်",
+      "remark": "会話"
+    }
+  ]
+}
